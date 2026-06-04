@@ -29,5 +29,5 @@ My journey in software development and information systems has led me to develop
 |-------|-------------------|
 | 🖥️ Virtualization & Network Configuration | [Virtualization, Networking](./Projects/Virtualization%2C%20Networking.md) |
 | 📡 Network Traffic Analysis (Wireshark & TCPdump) | [Wireshark and tcpdump](./Projects/Wireshark%20and%20tcpdump.md) |
-| 🔐 Linux Access Controls & Permissions | [Managing Linux Access Controls](./Projects/Managing%20Linux%20Access%20Controls.md) |
+| 🔐 Linux Access Controls & Permissions | [Managing Linux and Window Access Controls](./Projects/Managing%20Linux%20Access%20Controls.md) |
 
