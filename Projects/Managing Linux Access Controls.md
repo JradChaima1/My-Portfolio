@@ -103,3 +103,17 @@ On this file, the Administrator and System have full permissions, but the User o
 2. Deny hp user from reading the file
    
 <img width="518" height="129" alt="image" src="https://github.com/user-attachments/assets/cdfad00e-2ff7-4ef9-a7a9-3e31ea3db0be" />
+
+3. Give hp user full access
+   
+<img width="536" height="129" alt="image" src="https://github.com/user-attachments/assets/636dc42e-51b8-49aa-803f-948ba7995307" />
+
+4. Remove all access for the HP user to the file
+   
+<img width="522" height="128" alt="image" src="https://github.com/user-attachments/assets/55b6da38-91a0-4245-a462-6560a9d89574" />
+
+4. Create new share file
+
+<img width="760" height="105" alt="image" src="https://github.com/user-attachments/assets/0304fa53-93d8-4514-bc77-d96bc1ac08f4" />
+
+An SMB share (Server Message Block share) is a folder or drive on a Windows computer that is made accessible to other computers on the same network.
