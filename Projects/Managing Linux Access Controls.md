@@ -1,3 +1,4 @@
+## Managing permissions on Linux and Windows
 🔐 Linux Users, Groups & Permissions Lab
 
 This lab demonstrates Linux user management, group management, file ownership, and permission control using practical command-line operations.
@@ -91,3 +92,14 @@ Execute = 1
 
 <img width="443" height="126" alt="Pasted image 20260604001310" src="https://github.com/user-attachments/assets/ef9708aa-92ad-49ee-baf5-c9c73854f126" />
 
+🔐 Window Permissions Lab
+
+1. Check file permission
+
+<img width="522" height="183" alt="image" src="https://github.com/user-attachments/assets/9ca2c874-abfa-4385-8ad9-375f24e56e0b" />
+
+On this file, the Administrator and System have full permissions, but the User only has Read & Execute permission
+
+2. Deny hp user from reading the file
+   
+<img width="518" height="129" alt="image" src="https://github.com/user-attachments/assets/cdfad00e-2ff7-4ef9-a7a9-3e31ea3db0be" />
