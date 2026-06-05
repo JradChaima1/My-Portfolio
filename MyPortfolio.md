@@ -31,3 +31,9 @@ My journey in software development and information systems has led me to develop
 | 📡 Network Traffic Analysis (Wireshark & TCPdump) | [Wireshark and tcpdump](./Projects/Wireshark%20and%20tcpdump.md) |
 | 🔐 Linux Access Controls & Permissions | [Managing Linux and Window Access Controls](./Projects/Managing%20Linux%20Access%20Controls.md) |
 
+🔐 Cybersecurity Learning Journey
+
+This presentation documents my cybersecurity learning journey and the security topics I have explored. It serves as a collection of notes and concepts that help me build a stronger understanding of cybersecurity fundamentals and related domains.
+
+📖 Canva Presentation: [View Presentation](https://canva.link/ti1gfxd2qmcar06)
+
