@@ -27,6 +27,7 @@ My journey in software development and information systems has led me to develop
 
 | Skill | Associated Project |
 |-------|-------------------|
+| 🛡️ Endpoint Monitoring & Malware Detection | [Wazuh, Endpoint Monitoring](./Projects/Wazuh%20for%20Endpoint%20Monitoring%2C%20Malware%20Detection%20%26%20Vulnerability%20Scanning.md) |
 | 🖥️ Virtualization & Network Configuration | [Virtualization, Networking](./Projects/Virtualization%2C%20Networking.md) |
 | 📡 Network Traffic Analysis (Wireshark & TCPdump) | [Wireshark and tcpdump](./Projects/Wireshark%20and%20tcpdump.md) |
 | 🔐 Linux Access Controls & Permissions | [Managing Linux and Window Access Controls](./Projects/Managing%20Linux%20Access%20Controls.md) |
